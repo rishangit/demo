@@ -1,0 +1,28 @@
+@import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
+@import 'https://raw.githubusercontent.com/daneden/animate.css/master/animate.css';
+@import 'https://fonts.googleapis.com/css?family=Hind:600';
+@import 'https://fonts.googleapis.com/css?family=Hind:300';
+@import 'https://fonts.googleapis.com/css?family=Mandali';
+
+@import 'animate.css';
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+body{
+
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+/*--------------------------------MEDIA - MOBILE!!!-----------------------------------*/
+@media screen and (max-width:640px){
+
+}
